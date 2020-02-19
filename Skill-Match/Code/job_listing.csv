@@ -1,0 +1,566 @@
+Experience_level,salary,CLN_JobpostingCity,CLN_JobpostingState,Name,Education,Years_of_Experience
+4,77500,Addison,TX,Accountant,3,3
+4,58000,Addison,TX,Accountant,1,3
+4,77500,Addison,TX,Accountant,1,5
+4,83000,Alexandria,VA,Accountant,1,2
+4,72500,Alpharetta,GA,Accountant,3,3
+4,65000,Alpharetta,GA,Accountant,3,5
+4,75000,Annapolis,MD,Accountant,3,3
+4,75000,Annapolis,MD,Accountant,3,3
+4,80000,Arlington,VA,Accountant,3,5
+4,67500,Atlanta,GA,Accountant,1,2
+4,67500,Atlanta,GA,Accountant,3,4
+4,67500,Atlanta,GA,Accountant,3,3
+4,75000,Atlanta,GA,Accountant,3,2
+4,65000,Atlanta,GA,Accountant,3,4
+4,77500,Atlanta,GA,Accountant,3,2
+4,70000,Atlanta,GA,Accountant,3,3
+4,85000,Atlanta,GA,Accountant,3,5
+4,42000,Atlanta,GA,Accountant,1,2
+4,82500,Atlanta,GA,Accountant,3,3
+4,60000,Atlanta,GA,Accountant,3,5
+4,75000,Atlanta,GA,Accountant,3,2
+4,67500,Atlanta,GA,Accountant,3,4
+4,110000,Atlanta,GA,Accountant,3,3
+4,70000,Atlanta,GA,Accountant,3,4
+4,65000,Atlanta,GA,Accountant,4,10
+4,67500,Atlanta,GA,Accountant,3,5
+4,70000,Auburn,WA,Accountant,3,4
+4,60000,Aurora,CO,Accountant,3,2
+4,77500,Austin,TX,Accountant,3,5
+4,82500,Aventura,FL,Accountant,1,5
+4,66000,Baltimore,MD,Accountant,3,5
+4,66000,Baltimore,MD,Accountant,3,5
+4,85000,Bethesda,MD,Accountant,3,4
+4,82500,Bethesda,MD,Accountant,3,10
+4,70000,Boston,MA,Accountant,3,3
+4,72500,Boston,MA,Accountant,3,2
+4,75000,Boston,MA,Accountant,3,2
+4,100000,Boston,MA,Accountant,3,5
+4,105000,Boston,MA,Accountant,3,8
+4,57500,Boston,MA,Accountant,3,4
+4,60000,Boston,MA,Accountant,3,4
+4,57500,Boston,MA,Accountant,3,2
+4,90000,Boston,MA,Accountant,3,3
+4,130000,Boston,MA,Accountant,4,6
+4,100000,Bothell,WA,Accountant,3,5
+4,70000,Boulder,CO,Accountant,3,5
+4,122500,Brooklyn,NY,Accountant,3,8
+4,66000,Canton,MA,Accountant,3,1
+4,66000,Canton,MA,Accountant,3,5
+4,66000,Canton,MA,Accountant,3,4
+4,66000,Canton,MA,Accountant,1,4
+4,66000,Canton,MA,Accountant,1,4
+4,86000,Charlotte,NC,Accountant,3,1
+4,75000,Charlotte,NC,Accountant,1,6
+4,72500,Chelmsford,MA,Accountant,3,3
+4,72500,Chelmsford,MA,Accountant,3,6
+4,72500,Chelmsford,MA,Accountant,3,3
+4,85000,Cherry Hill,NJ,Accountant,3,2
+4,80000,Cherry Hill,NJ,Accountant,3,5
+4,90000,Chicago,IL,Accountant,3,5
+4,90000,Chicago,IL,Accountant,1,4
+4,50000,Chicago,IL,Accountant,3,3
+4,155000,Chicago,IL,Accountant,3,3
+4,85000,Chicago,IL,Accountant,3,6
+4,85000,Chicago,IL,Accountant,3,3
+4,65000,Chicago,IL,Accountant,3,5
+4,155000,Chicago,IL,Accountant,3,8
+4,67000,Chicago,IL,Accountant,3,5
+4,95000,Clutch City,TX,Accountant,3,5
+4,95000,Culver City,CA,Accountant,3,8
+4,85000,Dallas,TX,Accountant,3,2
+4,52500,Dallas,TX,Accountant,1,3
+4,77500,Dallas,TX,Accountant,1,5
+4,72500,Dallas,TX,Accountant,4,2
+4,68550,Denver,CO,Accountant,3,5
+4,75000,Denver,CO,Accountant,3,5
+4,65000,Denver,CO,Accountant,1,5
+4,62500,Des Plaines,IL,Accountant,3,3
+4,57500,Doral,FL,Accountant,3,5
+4,87500,El Segundo,CA,Accountant,3,5
+4,71500,Englewood,CO,Accountant,3,2
+4,110000,Falls Church,VA,Accountant,3,5
+4,75000,Farmers Branch,TX,Accountant,4,8
+4,65000,Flower Mound,TX,Accountant,3,3
+4,54000,Franklin,TN,Accountant,3,7
+4,60000,Gambrills,MD,Accountant,1,4
+4,85000,Gwinnett County,GA,Accountant,4,2
+4,85000,Highlands Ranch,CO,Accountant,1,5
+4,82500,Houston,TX,Accountant,3,5
+4,56000,Houston,TX,Accountant,3,2
+4,90000,Houston,TX,Accountant,1,5
+4,90000,Houston,TX,Accountant,1,5
+4,97500,Houston,TX,Accountant,4,5
+4,85000,Houston,TX,Accountant,3,4
+4,50000,Houston,TX,Accountant,3,3
+4,75000,Houston,TX,Accountant,3,5
+4,54200,Indianapolis,IN,Accountant,3,5
+4,54200,Indianapolis,IN,Accountant,3,5
+4,61500,Indianapolis,IN,Accountant,1,3
+4,54200,Indianapolis,IN,Accountant,3,3
+4,90000,Jersey City,NJ,Accountant,3,4
+4,67000,King of Prussia,PA,Accountant,3,5
+4,75000,Las Vegas,NV,Accountant,3,5
+4,62000,Las Vegas,NV,Accountant,1,4
+4,50000,Las Vegas,NV,Accountant,1,2
+4,51250,Laurel,MD,Accountant,3,5
+4,51250,Laurel,MD,Accountant,3,5
+4,51250,Laurel,MD,Accountant,3,5
+4,80000,Lawrence,NY,Accountant,1,4
+4,48000,Los Alamitos,CA,Accountant,3,4
+4,67500,Los Angeles,CA,Accountant,1,6
+4,85000,Los Angeles,CA,Accountant,3,2
+4,80000,Los Angeles,CA,Accountant,3,4
+4,83000,Los Angeles,CA,Accountant,3,5
+4,85000,Los Angeles,CA,Accountant,3,5
+4,80000,Los Angeles,CA,Accountant,3,5
+4,80000,Los Angeles,CA,Accountant,3,2
+4,70000,Louisville,CO,Accountant,3,3
+4,70000,Louisville,CO,Accountant,3,3
+4,70000,Louisville,CO,Accountant,3,3
+4,70000,Memphis,TN,Accountant,4,2
+4,70000,Memphis,TN,Accountant,3,1
+4,70000,Memphis,TN,Accountant,3,5
+4,150000,Menlo Park,CA,Accountant,3,8
+4,77500,Miami,FL,Accountant,3,5
+4,77500,Miami,FL,Accountant,3,1
+4,92000,Miami,FL,Accountant,3,3
+4,82500,Miami,FL,Accountant,3,4
+4,82500,Miami,FL,Accountant,3,3
+4,75000,Miami,FL,Accountant,3,4
+4,77500,Miami,FL,Accountant,3,2
+4,96000,Monterey Park,CA,Accountant,3,4
+4,77500,Nashville,TN,Accountant,1,5
+4,80000,New York,NY,Accountant,3,1
+4,46500,New York,NY,Accountant,3,5
+4,77500,New York,NY,Accountant,3,2
+4,102500,New York,NY,Accountant,3,5
+4,90500,New York,NY,Accountant,3,5
+4,80000,New York,NY,Accountant,3,4
+4,77500,New York,NY,Accountant,3,10
+4,102500,New York,NY,Accountant,3,4
+4,87500,New York,NY,Accountant,1,5
+4,80000,New York,NY,Accountant,3,5
+4,80000,New York,NY,Accountant,3,4
+4,97500,New York,NY,Accountant,3,5
+4,97500,New York,NY,Accountant,3,6
+4,106500,New York,NY,Accountant,3,5
+4,72500,New York,NY,Accountant,3,3
+4,82500,New York,NY,Accountant,3,4
+4,80000,New York,NY,Accountant,3,3
+4,104500,New York,NY,Accountant,3,5
+4,70000,Newtown,PA,Accountant,3,5
+4,75000,Parsippany,NJ,Accountant,3,3
+4,85000,Pasadena,CA,Accountant,3,3
+4,75000,Pasadena,CA,Accountant,3,7
+4,58000,Pasadena,CA,Accountant,4,10
+4,60000,Philadelphia,PA,Accountant,3,6
+4,75000,Philadelphia,PA,Accountant,3,2
+4,65000,Philadelphia,PA,Accountant,3,2
+4,107500,Philadelphia,PA,Accountant,1,4
+4,62500,Philadelphia,PA,Accountant,3,5
+4,65000,Philadelphia,PA,Accountant,3,4
+4,75000,Philadelphia,PA,Accountant,3,5
+4,65000,Philadelphia,PA,Accountant,3,3
+4,65000,Philadelphia,PA,Accountant,3,4
+4,65000,Philadelphia,PA,Accountant,3,5
+4,75000,Pittsburgh,PA,Accountant,3,9
+4,80500,Plano,TX,Accountant,3,3
+4,80000,Plantation,FL,Accountant,3,9
+4,95000,Pleasanton,CA,Accountant,3,6
+4,120000,Pleasanton,CA,Accountant,3,7
+4,90000,Pleasanton,CA,Accountant,3,5
+4,95000,Pleasanton,CA,Accountant,3,4
+4,80000,Portland,OR,Accountant,3,5
+4,80000,Portland,OR,Accountant,4,4
+4,110000,Raleigh,NC,Accountant,3,4
+4,110000,Raleigh,NC,Accountant,3,7
+4,62500,Rancho Dominguez,CA,Accountant,3,5
+4,90000,Redwood City,CA,Accountant,3,5
+4,90000,Renton,WA,Accountant,4,8
+4,62369,Rockville,MD,Accountant,3,7
+4,95500,Saddle Brook,NJ,Accountant,3,10
+4,61000,Saint Petersburg,FL,Accountant,3,4
+4,80000,San Fernando Valley,CA,Accountant,3,3
+4,60820,San Francisco,CA,Accountant,3,3
+4,100000,San Francisco,CA,Accountant,3,5
+4,100000,San Francisco,CA,Accountant,3,5
+4,65000,San Francisco Bay Area,CA,Accountant,3,4
+4,89000,San Leandro,CA,Accountant,3,4
+4,105000,San Mateo,CA,Accountant,3,5
+4,102500,San Rafael,CA,Accountant,3,5
+4,95000,San Rafael,CA,Accountant,3,5
+4,72500,Sandy Springs,GA,Accountant,3,4
+4,102500,Seattle,WA,Accountant,3,5
+4,62000,Seattle,WA,Accountant,3,3
+4,75000,Seattle,WA,Accountant,3,4
+4,57000,Seattle,WA,Accountant,3,5
+4,56000,Seattle,WA,Accountant,3,5
+4,79737,Seattle,WA,Accountant,3,4
+4,70000,Silverdale,WA,Accountant,3,4
+4,90000,Springfield,VA,Accountant,3,5
+4,52500,Tampa,FL,Accountant,3,3
+4,78500,Tampa,FL,Accountant,3,4
+4,62500,Troy,MI,Accountant,3,3
+4,62500,Troy,MI,Accountant,3,3
+4,62500,Troy,MI,Accountant,3,3
+4,62500,Troy,MI,Accountant,3,3
+4,62500,Troy,MI,Accountant,3,3
+4,85000,Upper Darby,PA,Accountant,3,4
+4,75000,Vernon,CA,Accountant,3,4
+4,75000,Vernon,CA,Accountant,3,4
+4,65000,Waldorf,MD,Accountant,3,3
+4,105000,Waltham,MA,Accountant,3,6
+4,110000,Washington,DC,Accountant,3,6
+4,90000,Washington,DC,Accountant,3,5
+4,90000,Washington,DC,Accountant,3,5
+4,77500,Wheeling,IL,Accountant,3,4
+4,90000,Woburn,MA,Accountant,3,5
+3,60000,Addison,TX,Accountant,3,3
+3,49500,Allen,TX,Accountant,3,2
+3,50000,Alpharetta,GA,Accountant,3,2
+3,92500,Annapolis,MD,Accountant,3,3
+3,60000,Arlington,VA,Accountant,3,5
+3,70000,Atlanta,GA,Accountant,3,4
+3,34000,Atlanta,GA,Accountant,3,2
+3,59000,Atlanta,GA,Accountant,3,3
+3,49000,Atlanta,GA,Accountant,3,3
+3,54500,Atlanta,GA,Accountant,3,3
+3,46500,Atlanta,GA,Accountant,3,3
+3,55500,Austin,TX,Accountant,3,3
+3,50000,Austin,TX,Accountant,3,3
+3,60000,Austin,TX,Accountant,3,3
+3,70000,Austin,TX,Accountant,3,4
+3,50000,Baltimore,MD,Accountant,3,4
+3,75000,Beaverton,OR,Accountant,3,3
+3,35000,Beaverton,OR,Accountant,3,2
+3,75000,Beaverton,OR,Accountant,3,4
+3,52500,Bellevue,WA,Accountant,4,3
+3,52500,Bellmawr,NJ,Accountant,3,3
+3,59000,Berkeley,CA,Accountant,3,3
+3,57500,Bethesda,MD,Accountant,3,3
+3,40000,Beverly Hills,CA,Accountant,3,2
+3,62500,Bloomfield Hills,MI,Accountant,3,4
+3,62500,Bloomfield Hills,MI,Accountant,3,4
+3,60000,Boston,MA,Accountant,3,4
+3,60000,Boston,MA,Accountant,3,4
+3,58000,Boston,MA,Accountant,3,4
+3,66890,Boston,MA,Accountant,3,4
+3,77500,Boston,MA,Accountant,3,4
+3,60000,Boston,MA,Accountant,3,4
+3,55000,Boston,MA,Accountant,3,3
+3,57500,Brentwood,TN,Accountant,3,3
+3,90000,Bronx,NY,Accountant,3,5
+3,59250,Burbank,CA,Accountant,3,3
+3,80000,Burbank,CA,Accountant,3,4
+3,80000,Burbank,CA,Accountant,3,4
+3,59000,Chapel Hill,NC,Accountant,3,3
+3,55000,Chapel Hill,NC,Accountant,3,3
+3,50000,Charlestown,MA,Accountant,3,3
+3,40000,Charlotte,NC,Accountant,3,2
+3,40000,Charlotte,NC,Accountant,3,2
+3,65000,Charlotte,NC,Accountant,3,4
+3,57000,Charlotte,NC,Accountant,3,3
+3,42000,Charlotte,NC,Accountant,3,3
+3,48500,Charlotte,NC,Accountant,3,3
+3,40000,Charlotte,NC,Accountant,3,3
+3,55000,Chatham,NJ,Accountant,3,3
+3,47500,Chicago,IL,Accountant,3,3
+3,52000,Chicago,IL,Accountant,3,3
+3,47000,Chicago,IL,Accountant,3,3
+3,80000,Chicago,IL,Accountant,3,5
+3,60000,Chicago,IL,Accountant,3,4
+3,57500,Chicago,IL,Accountant,3,3
+3,27000,Chicago,IL,Accountant,3,2
+3,57500,Chicago,IL,Accountant,3,3
+3,55000,Chicago,IL,Accountant,3,3
+3,32500,Chicago,IL,Accountant,3,2
+3,49903,City of Los Angeles,CA,Accountant,3,3
+3,60000,Clearwater,FL,Accountant,3,3
+3,28500,Clearwater,FL,Accountant,3,2
+3,90000,Clinton,CT,Accountant,3,5
+3,50000,Concord,MA,Accountant,3,3
+3,40000,Coral Gables,FL,Accountant,3,3
+3,37500,Cranberry Township,PA,Accountant,3,2
+3,41000,Culver City,CA,Accountant,3,2
+3,55000,Culver City,CA,Accountant,3,3
+3,74500,Dallas,TX,Accountant,4,4
+3,36000,Dallas,TX,Accountant,3,2
+3,60000,Dallas,TX,Accountant,3,3
+3,55000,Dallas,TX,Accountant,3,3
+3,42500,Dallas,TX,Accountant,3,3
+3,49000,Dallas,TX,Accountant,3,3
+3,59130,Dallas,TX,Accountant,3,3
+3,86000,Dallas,TX,Accountant,3,4
+3,72500,Dallas,TX,Accountant,3,4
+3,72500,Dallas,TX,Accountant,3,4
+3,3600,Davidson County,TN,Accountant,3,2
+3,55000,Deerfield,IL,Accountant,3,3
+3,55000,Deerfield,IL,Accountant,3,3
+3,47500,Denver,CO,Accountant,3,3
+3,56000,Denver,CO,Accountant,3,3
+3,50000,Denver,CO,Accountant,4,3
+3,65000,Denver,CO,Accountant,3,3
+3,41500,Denver,CO,Accountant,3,3
+3,53500,Denver,CO,Accountant,3,3
+3,45000,Denver,CO,Accountant,3,3
+3,60000,Denver,CO,Accountant,3,3
+3,49000,Denver,CO,Accountant,3,3
+3,44000,Detroit,MI,Accountant,3,3
+3,57000,Duluth,GA,Accountant,3,3
+3,36000,Duluth,GA,Accountant,3,2
+3,44000,Elk Grove Village,IL,Accountant,3,2
+3,45000,Elk Grove Village,IL,Accountant,3,2
+3,55000,Elma,NY,Accountant,3,3
+3,46000,Elmhurst,IL,Accountant,3,2
+3,54850,Englewood,CO,Accountant,3,3
+3,47500,Englewood,CO,Accountant,3,2
+3,52000,Englewood,CO,Accountant,3,3
+3,36000,Englewood Cliffs,NJ,Accountant,3,2
+3,55000,Fairfax,VA,Accountant,3,3
+3,42500,Flushing,NY,Accountant,3,2
+3,36000,Flushing,NY,Accountant,3,2
+3,85000,Fort Lauderdale,FL,Accountant,4,5
+3,35000,Fort Lauderdale,FL,Accountant,3,3
+3,48500,Framingham,MA,Accountant,3,3
+3,70000,Framingham,MA,Accountant,3,4
+3,51250,Fuquay-Varina,NC,Accountant,3,3
+3,51250,Fuquay-Varina,NC,Accountant,3,3
+3,51250,Fuquay-Varina,NC,Accountant,3,3
+3,51250,Fuquay-Varina,NC,Accountant,3,3
+3,70000,Garden City,NY,Accountant,3,4
+3,60000,Gardena,CA,Accountant,3,3
+3,50000,Glendale,CA,Accountant,3,3
+3,55000,Glenview,IL,Accountant,3,3
+3,62500,Greenwood Village,CO,Accountant,3,3
+3,52000,Houston,TX,Accountant,3,3
+3,55000,Houston,TX,Accountant,3,3
+3,63000,Houston,TX,Accountant,3,3
+3,55500,Houston,TX,Accountant,3,3
+3,30000,Houston,TX,Accountant,3,2
+3,43500,Indianapolis,IN,Accountant,3,3
+3,44000,Indianapolis,IN,Accountant,3,3
+3,50000,Indianapolis,IN,Accountant,3,3
+3,44500,Industry,CA,Accountant,3,3
+3,102500,Inglewood,CA,Accountant,3,7
+3,65000,Inglewood,CA,Accountant,3,4
+3,102500,Inglewood,CA,Accountant,4,6
+3,102500,Inglewood,CA,Accountant,3,5
+3,102500,Inglewood,CA,Accountant,3,5
+3,60500,Irving,TX,Accountant,3,4
+3,60500,Irving,TX,Accountant,3,4
+3,42500,Kearny,NJ,Accountant,3,3
+3,50000,Lakewood,CO,Accountant,3,3
+3,55000,Largo,FL,Accountant,3,3
+3,55000,Largo,FL,Accountant,3,3
+3,43250,Las Vegas,NV,Accountant,3,3
+3,47300,Lewisville,TX,Accountant,3,3
+3,65000,Lexington,MA,Accountant,3,4
+3,47000,Livonia,MI,Accountant,3,3
+3,32000,Lombard,IL,Accountant,3,2
+3,62000,Long Island City,NY,Accountant,3,4
+3,55000,Los Angeles,CA,Accountant,3,3
+3,52880,Los Angeles,CA,Accountant,3,3
+3,55500,Los Angeles,CA,Accountant,3,3
+3,80000,Los Angeles,CA,Accountant,3,4
+3,40000,Los Angeles,CA,Accountant,3,2
+3,50000,Los Angeles,CA,Accountant,3,3
+3,49000,Los Angeles,CA,Accountant,3,3
+3,62500,Los Angeles,CA,Accountant,3,3
+3,60000,Los Angeles,CA,Accountant,3,3
+3,49903,Los Angeles,CA,Accountant,3,3
+3,70000,Los Angeles,CA,Accountant,3,4
+3,12508,Los Angeles,CA,Accountant,3,2
+3,55000,Lutherville-Timonium,MD,Accountant,3,3
+3,75000,Manhattan,NY,Accountant,3,4
+3,36900,Memphis,TN,Accountant,3,2
+3,38950,Memphis,TN,Accountant,3,2
+3,36900,Memphis,TN,Accountant,3,2
+3,36900,Memphis,TN,Accountant,3,2
+3,83250,Memphis,TN,Accountant,3,5
+3,38950,Memphis,TN,Accountant,3,5
+3,36900,Memphis,TN,Accountant,3,2
+3,52500,Miami,FL,Accountant,3,3
+3,70000,Miami,FL,Accountant,3,4
+3,52500,Miami,FL,Accountant,3,3
+3,52500,Miami,FL,Accountant,3,3
+3,52500,Miami,FL,Accountant,3,3
+3,52500,Miami,FL,Accountant,3,3
+3,60000,Miami Gardens,FL,Accountant,3,3
+3,52500,Miami Gardens,FL,Accountant,3,3
+3,50000,Miami Lakes,FL,Accountant,3,3
+3,50000,Miami Lakes,FL,Accountant,3,3
+3,50000,Miami Lakes,FL,Accountant,3,3
+3,50000,Miami Lakes,FL,Accountant,3,3
+3,72500,Mineola,NY,Accountant,3,4
+3,80000,Montclair,NJ,Accountant,3,4
+3,80000,Montclair,NJ,Accountant,3,4
+3,60000,Mount Vernon,NY,Accountant,3,3
+3,69570,Multnomah County,OR,Accountant,3,4
+3,70000,Nashville,TN,Accountant,3,4
+3,46500,Nashville,TN,Accountant,3,3
+3,62500,Nashville,TN,Accountant,3,3
+3,50000,Nashville,TN,Accountant,3,3
+3,55000,New Rochelle,NY,Accountant,3,3
+3,61500,New York,NY,Accountant,3,3
+3,56000,New York,NY,Accountant,3,3
+3,90500,New York,NY,Accountant,3,5
+3,82500,New York,NY,Accountant,3,5
+3,52500,New York,NY,Accountant,3,3
+3,67500,New York,NY,Accountant,3,4
+3,61000,New York,NY,Accountant,3,3
+3,70000,New York,NY,Accountant,3,4
+3,73500,New York,NY,Accountant,3,4
+3,113000,New York,NY,Accountant,3,5
+3,50000,New York,NY,Accountant,3,3
+3,75000,New York,NY,Accountant,3,4
+3,74000,New York,NY,Accountant,3,4
+3,95000,New York,NY,Accountant,3,5
+3,75000,New York,NY,Accountant,3,4
+3,50000,New York,NY,Accountant,3,3
+3,90000,New York,NY,Accountant,3,5
+3,75000,New York,NY,Accountant,3,4
+3,82500,New York,NY,Accountant,3,4
+3,60000,New York,NY,Accountant,3,3
+3,52500,New York,NY,Accountant,3,3
+3,49000,Newark,NJ,Accountant,3,3
+3,50000,Norcross,GA,Accountant,3,3
+3,82500,North Miami,FL,Accountant,3,4
+3,5265.5,Northridge,CA,Accountant,3,3
+3,61500,Novato,CA,Accountant,3,3
+3,78000,Oakland,CA,Accountant,3,4
+3,49000,Oakland,CA,Accountant,3,3
+3,38500,Owings Mills,MD,Accountant,3,2
+3,65000,Parsippany,NJ,Accountant,3,3
+3,50000,Pasadena,CA,Accountant,3,3
+3,70000,Pasadena,TX,Accountant,3,4
+3,45000,Philadelphia,PA,Accountant,3,2
+3,57000,Philadelphia,PA,Accountant,3,3
+3,62000,Philadelphia,PA,Accountant,3,3
+3,75000,Philadelphia,PA,Accountant,3,4
+3,70000,Philadelphia,PA,Accountant,3,4
+3,52500,Pittsburgh,PA,Accountant,3,3
+3,52500,Pittsburgh,PA,Accountant,3,3
+3,30000,Plano,TX,Accountant,3,2
+3,57500,Pleasanton,CA,Accountant,3,3
+3,45000,Portland,OR,Accountant,3,3
+3,75000,Prospect,CT,Accountant,3,4
+3,47500,Queens,NY,Accountant,3,3
+3,51500,Raleigh,NC,Accountant,3,3
+3,48000,Raleigh,NC,Accountant,3,3
+3,51500,Raleigh,NC,Accountant,3,3
+3,40500,Raleigh,NC,Accountant,3,3
+3,51500,Raleigh,NC,Accountant,3,3
+3,102000,Renton,WA,Accountant,3,5
+3,56500,Richardson,TX,Accountant,3,3
+3,31000,Romulus,MI,Accountant,3,2
+3,31000,Romulus,MI,Accountant,3,2
+3,31000,Romulus,MI,Accountant,3,2
+3,31000,Romulus,MI,Accountant,3,2
+3,51000,Roslyn,NY,Accountant,3,3
+3,50000,Ruxton,MD,Accountant,3,3
+3,50000,Ruxton,MD,Accountant,3,3
+3,70000,Saint Petersburg,FL,Accountant,3,4
+3,70000,San Francisco,CA,Accountant,3,4
+3,70000,San Francisco,CA,Accountant,3,4
+3,57500,San Rafael,CA,Accountant,3,3
+3,50000,Seattle,WA,Accountant,3,3
+3,66350,Seattle,WA,Accountant,3,3
+3,35840,Seattle,WA,Accountant,3,2
+3,49598.25,Seattle,WA,Accountant,3,3
+3,35840,Seattle,WA,Accountant,3,3
+3,28500,Secaucus,NJ,Accountant,3,2
+3,55000,Shelton,CT,Accountant,3,3
+3,55000,Shelton,CT,Accountant,4,3
+3,55000,Shelton,CT,Accountant,3,3
+3,55000,Shelton,CT,Accountant,3,3
+3,42500,Sherman Oaks,CA,Accountant,3,3
+3,68000,Sherman Oaks,CA,Accountant,3,4
+3,68000,Sherman Oaks,CA,Accountant,3,4
+3,50000,Signal Hill,CA,Accountant,3,3
+3,75000,Silver Spring,MD,Accountant,3,3
+3,65000,Skokie,IL,Accountant,3,3
+3,46500,Southfield,MI,Accountant,3,3
+3,45000,Syracuse,NY,Accountant,3,3
+3,37500,Syracuse,NY,Accountant,3,2
+3,55000,Tampa,FL,Accountant,3,2
+3,77500,Tampa,FL,Accountant,3,4
+3,38200.24,Tampa,FL,Accountant,3,3
+3,82500,Thorofare,NJ,Accountant,3,5
+3,82500,Thorofare,NJ,Accountant,3,5
+3,82500,Thorofare,NJ,Accountant,4,5
+3,82500,Thorofare,NJ,Accountant,3,5
+3,65000,Torrance,CA,Accountant,3,4
+3,52500,Torrance,CA,Accountant,3,3
+3,77500,Torrance,CA,Accountant,3,4
+3,55000,Torrance,CA,Accountant,3,3
+3,67500,Union County,NJ,Accountant,3,3
+3,64000,Vallejo,CA,Accountant,3,4
+3,50000,Vancouver,WA,Accountant,3,3
+3,45000,Vienna,VA,Accountant,3,2
+3,50000,Wake Forest,NC,Accountant,3,3
+3,50000,Wake Forest,NC,Accountant,3,3
+3,50000,Wake Forest,NC,Accountant,3,3
+3,50000,Wake Forest,NC,Accountant,3,3
+3,50000,Wake Forest,NC,Accountant,3,3
+3,51000,Wallingford,CT,Accountant,3,3
+3,65000,Waltham,MA,Accountant,3,3
+3,57500,Washington,DC,Accountant,3,3
+3,75000,Washington,DC,Accountant,3,4
+3,82500,Washington,DC,Accountant,3,4
+3,70000,Washington,DC,Accountant,3,4
+3,131778.5,Washington,DC,Accountant,3,7
+3,75000,Washington,DC,Accountant,3,5
+3,65000,West Caldwell,NJ,Accountant,3,4
+3,50000,Williamsville,NY,Accountant,3,3
+3,50000,Williamsville,NY,Accountant,3,3
+3,50000,Williamsville,NY,Accountant,3,3
+3,50000,Williamsville,NY,Accountant,3,3
+3,50000,Williamsville,NY,Accountant,3,3
+3,50000,Wolcott,CT,Accountant,3,3
+3,40000,Woodinville,WA,Accountant,3,3
+3,80000,Woodland Hills,CA,Accountant,3,3
+2,27000,Aliquippa,PA,Accountant,3,2
+2,43800,Atlanta,GA,Accountant,3,2
+2,60934.5,Baltimore,MD,Accountant,3,3
+2,65000,Brooklyn,NY,Accountant,3,3
+2,34000,Camden,NJ,Accountant,3,3
+2,40000,Charlotte,NC,Accountant,3,2
+2,42500,Chicago,IL,Accountant,3,2
+2,35000,Clearwater,FL,Accountant,3,1
+2,47000,Columbia,MD,Accountant,3,3
+2,45500,Dallas,TX,Accountant,1,2
+2,35500,Dallas,TX,Accountant,3,1
+2,55000,Denver,CO,Accountant,1,2
+2,50000,Duluth,GA,Accountant,3,2
+2,50000,Duluth,GA,Accountant,3,2
+2,40000,Evanston,IL,Accountant,1,2
+2,43000,Fort Lauderdale,FL,Accountant,1,2
+2,47500,Fort Lauderdale,FL,Accountant,3,2
+2,40000,Fort Lauderdale,FL,Accountant,3,2
+2,47500,Fort Lauderdale,FL,Accountant,3,2
+2,47500,Houston,TX,Accountant,3,3
+2,44500,Long Beach,CA,Accountant,3,3
+2,58000,Los Angeles,CA,Accountant,3,2
+2,50000,Los Angeles,CA,Accountant,3,3
+2,58930,Manhattan,NY,Accountant,4,3
+2,45000,Maywood,IL,Accountant,3,3
+2,60000,Miami,FL,Accountant,3,3
+2,47500,Miami,FL,Accountant,3,4
+2,48000,Montebello,CA,Accountant,3,2
+2,47000,Nashville,TN,Accountant,3,2
+2,37000,New Orleans,LA,Accountant,3,3
+2,3999,New Orleans,LA,Accountant,3,1
+2,60000,New York,NY,Accountant,1,1
+2,47500,Norcross,GA,Accountant,3,3
+2,32000,Pittsburgh,PA,Accountant,3,3
+2,69779,Portland,OR,Accountant,3,4
+2,30000,Syracuse,NY,Accountant,3,2
+2,30000,Syracuse,NY,Accountant,3,1
+2,30000,Syracuse,NY,Accountant,3,1
+2,47000,Vancouver,WA,Accountant,3,2
+2,47000,Vancouver,WA,Accountant,3,2
+2,47000,Vancouver,WA,Accountant,3,2
+2,29000,Wake Forest,NC,Accountant,3,1
+2,46500,Washington,DC,Accountant,3,3
